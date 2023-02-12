@@ -3,6 +3,5 @@
 <h2><a href="https://notshawky007.github.io/Movie-Collection/">Live Demo</a></h2>
 
 ### Tools:
-- Html
 - Css
 - Java Script
